@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Diego",
+        "hobby": "guitarra",
+        "edad": "21",
+        "numero": "3315359000",
+        "direccion": "Guadalajara, MX"
+    },
+    {
+        "nombre": "Tracy",
+        "hobby": "Arco",
+        "edad": "20",
+        "numero": "54742247",
+        "direccion": "Hong Kong, CH"
+    },
+    {
+        "nombre": "Sebastian",
+        "hobby": "ciclismo",
+        "edad": "20",
+        "numero": "50678942",
+        "direccion": "Victoria, CA"
+    }
+]
